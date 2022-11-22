@@ -9,7 +9,7 @@ cd tailwind-prac
 
 ## Build 
 <pre>
-npm run build # tailwind 3.X ver 이후 build 이후 실행시켜야 적용.
+npm run build # tailwind 3.xx 이후, build -> run 진행. 
 </pre>
 
 ## Run
